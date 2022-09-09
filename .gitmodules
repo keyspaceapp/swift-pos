@@ -1,0 +1,9 @@
+[submodule "Sources/cxxopts"]
+	path = Sources/cxxopts
+	url = https://github.com/jarro2783/cxxopts.git
+[submodule "Sources/filesystem"]
+	path = Sources/filesystem
+	url = https://github.com/gulrak/filesystem.git
+[submodule "Sources/chiapos"]
+	path = Sources/chiapos
+	url = git@github.com:keyspacewallet/chiapos.git
